@@ -1,4 +1,4 @@
-# List of free and open source Android software
+# Free and Open Source Android Software
 
 ## Advertisement blocking
 
