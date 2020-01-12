@@ -2,8 +2,7 @@
 
 ## Advertisement blocking
 
-Application Name    |   Description |   Root    |   Availability    |   Source Code |
-:---------: | :-----------: | :---------------: | :---------------: | :-----------: |
+
 |[AdAway](https://adaway.org/)   |   Ad blocker for Android using the hosts file.    |   Yes |  <a href="https://www.f-droid.org/en/packages/org.adaway/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://github.com/AdAway/AdAway" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 |[Blokada](https://blokada.org/)    |   Ad blocker for Android using the VPN API.   |   No  |   <a href="https://f-droid.org/en/packages/org.blokada.alarm/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |  <a href="https://github.com/blokadaorg/blokada" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
