@@ -1,8 +1,9 @@
-# Free and Open Source Android Software
+# Free and Open Source Android Apps
 
 ## Advertisement blocking
 
-
+Application Name    |   Description |   Root    |   Availability    |   Source Code |
+:---------: | :-----------: | :---------------: | :---------------: | :-----------: |
 |[AdAway](https://adaway.org/)   |   Ad blocker for Android using the hosts file.    |   Yes |  <a href="https://www.f-droid.org/en/packages/org.adaway/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://github.com/AdAway/AdAway" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 |[Blokada](https://blokada.org/)    |   Ad blocker for Android using the VPN API.   |   No  |   <a href="https://f-droid.org/en/packages/org.blokada.alarm/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |  <a href="https://github.com/blokadaorg/blokada" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
@@ -18,6 +19,12 @@ Application Name    |   Description |   Root    |   Availability    |   Source C
 Application Name    |   Description |   Root    |   Availability    |   Source Code |
 :---------: | :-----------: | :---------------: | :---------------: | :-----------: |
 |QKSMS  | SMS messaging app.  | No  | <a href="https://f-droid.org/packages/com.moez.QKSMS/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=com.moez.QKSMS"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/moezbhatti/qksms"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
+## Music
+Application Name    |   Description |   Root    |   Availability    |   Source Code |
+:---------: | :-----------: | :---------------: | :---------------: | :-----------: |
+|Odyssey Music Player | Lightweight music player. | No  | <a href="https://f-droid.org/packages/org.gateshipone.odyssey/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=org.gateshipone.odyssey"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/gateship-one/odyssey"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+|Retro Music  | Local music player for Android. | No  | <a href="https://play.google.com/store/apps/details?id=code.name.monkey.retromusic&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/h4h13/RetroMusicPlayer"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Office
 Application Name    |   Description |   Root    |   Availability    |   Source Code |
@@ -36,6 +43,7 @@ Application Name    |   Description |   Root    |   Availability    |   Source C
 
 Application Name    |   Description |   Root    |   Availability    |   Source Code |
 :---------: | :-----------: | :---------------: | :---------------: | :-----------: |
+|[NewPipe](https://newpipe.schabi.org/) | Lightweight Google-free YouTube client  | No  |  <a href="https://f-droid.org/packages/org.schabi.newpipe/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/TeamNewPipe/NewPipe"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Stores
 
