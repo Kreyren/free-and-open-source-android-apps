@@ -18,7 +18,7 @@ Application Name    |   Description |   Root    |   Availability    |   Source C
 
 Application Name    |   Description |   Root    |   Availability    |   Source Code |
 :---------: | :-----------: | :---------------: | :---------------: | :-----------: |
-|[Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/)  | Third-party app for Facebook  | No  | <a href="https://f-droid.org/packages/com.pitchedapps.frost/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/AllanWang/Frost-for-Facebook"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+|[Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/)  | Third-party app for Facebook.  | No  | <a href="https://f-droid.org/packages/com.pitchedapps.frost/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/AllanWang/Frost-for-Facebook"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 |QKSMS  | SMS messaging app.  | No  | <a href="https://f-droid.org/packages/com.moez.QKSMS/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=com.moez.QKSMS"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/moezbhatti/qksms"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Music
