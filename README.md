@@ -1,4 +1,5 @@
-# Free and Open Source Android Software
+# Free and Open Source Android Apps
+
 
 ## Advertisement Blocking
 
@@ -18,7 +19,15 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+|[Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/)  | Third-party app for Facebook.  | No  | <a href="https://f-droid.org/packages/com.pitchedapps.frost/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/AllanWang/Frost-for-Facebook"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
 |QKSMS  | SMS messaging app.  | No  | <a href="https://f-droid.org/packages/com.moez.QKSMS/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=com.moez.QKSMS"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/moezbhatti/qksms"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
+## Music
+Application Name    |   Description |   Root    |   Availability    |   Source Code |
+:---------: | :-----------: | :---------------: | :---------------: | :-----------: |
+|Odyssey Music Player | Lightweight music player. | No  | <a href="https://f-droid.org/packages/org.gateshipone.odyssey/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=org.gateshipone.odyssey"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/gateship-one/odyssey"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+|Retro Music  | Local music player for Android. | No  | <a href="https://play.google.com/store/apps/details?id=code.name.monkey.retromusic&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/h4h13/RetroMusicPlayer"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Office
 
@@ -36,8 +45,10 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 
 ## Streaming
 
+
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+|[NewPipe](https://newpipe.schabi.org/) | Lightweight Google-free YouTube client  | No  |  <a href="https://f-droid.org/packages/org.schabi.newpipe/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/TeamNewPipe/NewPipe"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Stores
 
