@@ -4,7 +4,7 @@
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-[AdAway](https://adaway.org/)   |   Ad blocker for Android using the hosts file.    |   Yes |  <a href="https://www.f-droid.org/en/packages/org.adaway/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://github.com/AdAway/AdAway" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+[AdAway](https://adaway.org/)   |   Ad blocker for Android using the hosts file.    |   **Yes** |  <a href="https://www.f-droid.org/en/packages/org.adaway/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://github.com/AdAway/AdAway" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Blokada](https://blokada.org/)    |   Ad blocker for Android using the VPN API.   |   No  |   <a href="https://f-droid.org/en/packages/org.blokada.alarm/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |  <a href="https://github.com/blokadaorg/blokada" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Browsers
@@ -14,6 +14,11 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 [Bromite](https://www.bromite.org/)    |   Based on Chromium; built-in adblocking; enhanced privacy; degoogled. |   No  |   <a href="https://github.com/bromite/bromite/releases"> <img src="https://www.bromite.org/bromite.png" alt="Bromite" height="70"> [F-Droid Repository](https://fdroid.bromite.org/fdroid/repo)    |   <a href="https://github.com/bromite/bromite"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Kiwi Browser](https://kiwibrowser.com/)   |   Based on Chrome Canary; extension support; built-in dark mode; degoogled.    |   No |   <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">    |   <a href="https://github.com/kiwibrowser"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Privacy Browser](https://www.stoutner.com/privacy-browser/) | Minimal browser focused for privacy. | No  | <a href="https://f-droid.org/packages/com.stoutner.privacybrowser.standard/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary"> <img src="https://www.stoutner.com/wp-content/uploads/2016/02/cropped-Privacy-Browser-3.png" alt="Stoutner" height="70">
+
+## Camera
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+[Open Camera](https://opencamera.sourceforge.io/) | Camera app with DSLR features.  | No  | <a href="https://f-droid.org/en/packages/net.sourceforge.opencamera/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=net.sourceforge.opencamera"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://sourceforge.net/p/opencamera/code/ci/master/tree/"> <img src="https://sourceforge.net/p/forge/icon?1515522845&w=90" height="70">
 
 ## Communication
 
@@ -59,7 +64,15 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-Aurora Droid   |   Fork of F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
+Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 [Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
+
+## Modding
+#### NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+[microG](https://microg.org/) | FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** | No **(NOTE: Custom ROM with [signature spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) support required!)** | [microG or F-Droid Repository](https://microg.org/download.html)  | <a href="https://github.com/microg"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+Shelter | Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.  | No  | <a href="https://f-droid.org/en/packages/net.typeblog.shelter/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | [GitAngry](https://git.angry.im/PeterCxy/Shelter)
+[Smartpack-Kernel Manager](https://smartpack.github.io/spkm/) | Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features. | **Yes** | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases"> <img src="https://camo.githubusercontent.com/70bffd8873ab81e1bb0bccc44e488c3a989e3bd5/68747470733a2f2f692e6962622e636f2f71306d6463345a2f6765742d69742d6f6e2d6769746875622e706e67" height="70"> | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## External sources
