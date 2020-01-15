@@ -25,6 +25,7 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
 [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/)  | Third-party app for Facebook.  | No  | <a href="https://f-droid.org/packages/com.pitchedapps.frost/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/AllanWang/Frost-for-Facebook"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+[KDE Connect](https://community.kde.org/KDEConnect) | A project that enables all your devices to communicate with each other. | No  | <a href="https://f-droid.org/en/packages/org.kde.kdeconnect_tp/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en_US"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://invent.kde.org/kde/kdeconnect-android"> <img src="https://invent.kde.org/uploads/-/system/appearance/header_logo/1/kde-logo-white-blue-128x128.png" height="70">
 QKSMS  | SMS messaging app.  | No  | <a href="https://f-droid.org/packages/com.moez.QKSMS/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=com.moez.QKSMS"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/moezbhatti/qksms"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Media Players
@@ -71,8 +72,27 @@ Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.
 #### NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+Material Files  | Material Design file manager.  | No (Optional) | <a href="https://f-droid.org/packages/me.zhanghai.android.files/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=me.zhanghai.android.files"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/zhanghai/MaterialFiles"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [microG](https://microg.org/) | FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** | No **(NOTE: Custom ROM with [signature spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) support required!)** | [microG or F-Droid Repository](https://microg.org/download.html)  | <a href="https://github.com/microg"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 Shelter | Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.  | No  | <a href="https://f-droid.org/en/packages/net.typeblog.shelter/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | [GitAngry](https://git.angry.im/PeterCxy/Shelter)
 [Smartpack-Kernel Manager](https://smartpack.github.io/spkm/) | Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features. | **Yes** | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases"> <img src="https://camo.githubusercontent.com/70bffd8873ab81e1bb0bccc44e488c3a989e3bd5/68747470733a2f2f692e6962622e636f2f71306d6463345a2f6765742d69742d6f6e2d6769746875622e706e67" height="70"> | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
+
+## Other Git repositories
+[Ashpex / Android FOSS Apps](https://gitlab.com/Ashpex/android-FOSS-apps)
+
+[Mybridge / amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
+
+[pcqpcq / open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps)
+
+[unicodedeveloper / awesome-opensource-apps](https://github.com/unicodeveloper/awesome-opensource-apps#android)
+
 ## External sources
+
+[Android Authority](https://www.androidauthority.com/best-open-source-apps-for-android-861665/)
+
+[Beebom](https://beebom.com/open-source-apps-android/)
+
+[FossBytes](https://fossbytes.com/best-free-open-source-apps-android/)
+
+[TechWiser](https://techwiser.com/open-source-android-apps/)
