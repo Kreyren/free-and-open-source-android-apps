@@ -16,6 +16,7 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 [Privacy Browser](https://www.stoutner.com/privacy-browser/) | Minimal browser focused for privacy. | No  | <a href="https://f-droid.org/packages/com.stoutner.privacybrowser.standard/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary"> <img src="https://www.stoutner.com/wp-content/uploads/2016/02/cropped-Privacy-Browser-3.png" alt="Stoutner" height="70">
 
 ## Camera
+
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
 [Open Camera](https://opencamera.sourceforge.io/) | Camera app with DSLR features.  | No  | <a href="https://f-droid.org/en/packages/net.sourceforge.opencamera/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=net.sourceforge.opencamera"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://sourceforge.net/p/opencamera/code/ci/master/tree/"> <img src="https://sourceforge.net/p/forge/icon?1515522845&w=90" height="70">
@@ -25,6 +26,7 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
 [Frost for Facebook](https://allanwang.github.io/Frost-for-Facebook/)  | Third-party app for Facebook.  | No  | <a href="https://f-droid.org/packages/com.pitchedapps.frost/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/AllanWang/Frost-for-Facebook"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+[Jitsi Meet](https://jitsi.org/jitsi-meet/) |  Instant video conferences efficiently adapting to your scale.  | No  | <a href="https://f-droid.org/en/packages/org.jitsi.meet/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/jitsi/jitsi-meet"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [KDE Connect](https://community.kde.org/KDEConnect) | A project that enables all your devices to communicate with each other. | No  | <a href="https://f-droid.org/en/packages/org.kde.kdeconnect_tp/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=org.kde.kdeconnect_tp&hl=en_US"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://invent.kde.org/kde/kdeconnect-android"> <img src="https://invent.kde.org/uploads/-/system/appearance/header_logo/1/kde-logo-white-blue-128x128.png" height="70">
 QKSMS  | SMS messaging app.  | No  | <a href="https://f-droid.org/packages/com.moez.QKSMS/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=com.moez.QKSMS"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/moezbhatti/qksms"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
@@ -38,6 +40,7 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+Music | Lightweight and Material Music Player. | No  | <a href="https://f-droid.org/en/packages/com.maxfour.music/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> | <a href="https://github.com/MaxFour/Music-Player"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 Odyssey Music Player | Lightweight music player. | No  | <a href="https://f-droid.org/packages/org.gateshipone.odyssey/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=org.gateshipone.odyssey"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/gateship-one/odyssey"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 Retro Music  | Local music player for Android. | No  | <a href="https://play.google.com/store/apps/details?id=code.name.monkey.retromusic&hl=en&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/h4h13/RetroMusicPlayer"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
@@ -69,6 +72,7 @@ Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.
 [Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 
 ## Modding
+
 #### NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
@@ -79,6 +83,7 @@ Shelter | Leveraging the “Work Profile” feature of Android to provide an iso
 
 
 ## Other Git repositories
+
 [Ashpex / Android FOSS Apps](https://gitlab.com/Ashpex/android-FOSS-apps)
 
 [Mybridge / amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
