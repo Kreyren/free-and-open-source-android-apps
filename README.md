@@ -1,6 +1,24 @@
 # Free and Open Source Android Apps
 
-## Advertisement Blocking
+Table of contents
+=================
+
+  * [Advertisement blocking](#advertisement-blocking)
+  * [Browsers](#browsers)
+  * [Camera](#camera)
+  * [Communication](#communication)
+  * [Media Players](#media-players)
+  * [Music](#music)
+  * [Office](#office)
+  * [Personalisation](#personalisation)
+  * [Streaming](#streaming)
+  * [App stores](#app-stores)
+  * [Modding](#modding)
+  * [Contribution](#contribution)
+  * [Other Git Repositories](#other-git-repositories)
+  * [External sources](#external-sources)
+
+## Advertisement blocking
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
@@ -64,7 +82,7 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
 [NewPipe](https://newpipe.schabi.org/) | Lightweight Google-free YouTube client  | No  |  <a href="https://f-droid.org/packages/org.schabi.newpipe/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/TeamNewPipe/NewPipe"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
-## Stores
+## App stores
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
