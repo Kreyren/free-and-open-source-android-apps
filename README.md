@@ -31,9 +31,9 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
 [Bromite](https://www.bromite.org/)    |   Based on Chromium; built-in adblocking; enhanced privacy; degoogled. |   No  |   <a href="https://github.com/bromite/bromite/releases"> <img src="https://www.bromite.org/bromite.png" alt="Bromite" height="70"> [F-Droid Repository](https://fdroid.bromite.org/fdroid/repo)    |   <a href="https://github.com/bromite/bromite"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+Fennec F-Droid | Fennec F-Droid is based on the latest Firefox release. It's focused on removing any proprietary bits found in official Mozilla's builds. There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime. | No  | <a href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://hg.mozilla.org/releases/mozilla-esr68/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Firefox_Logo%2C_2017.png/581px-Firefox_Logo%2C_2017.png" alt="MozillaWikiLogo" height="70">
 [Kiwi Browser](https://kiwibrowser.com/)   |   Based on Chrome Canary; extension support; built-in dark mode; degoogled.    |   No |   <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">    |   <a href="https://github.com/kiwibrowser"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Privacy Browser](https://www.stoutner.com/privacy-browser/) | Minimal browser focused for privacy. | No  | <a href="https://f-droid.org/packages/com.stoutner.privacybrowser.standard/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary"> <img src="https://www.stoutner.com/wp-content/uploads/2016/02/cropped-Privacy-Browser-3.png" alt="Stoutner" height="70">
-Fennec F-Droid | Fennec F-Droid is based on the latest Firefox release. It's focused on removing any proprietary bits found in official Mozilla's builds. There might still be some binaries left and the app (or some builds) might get removed or re-pushed anytime. | No  | <a href="https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://hg.mozilla.org/releases/mozilla-esr68/"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Firefox_Logo%2C_2017.png/581px-Firefox_Logo%2C_2017.png" alt="MozillaWikiLogo" height="70">
  
 ## Camera
 
@@ -108,7 +108,7 @@ Shelter | Leveraging the “Work Profile” feature of Android to provide an iso
 
 ## Contribution
 
-Mind contributing? Feel free to fork the project and send some merge requests when you are done. I will check it out and will decide if I should accept it or not.
+Mind contributing? Feel free to fork the project and send some merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not.
 
 ## Other Git repositories
 
