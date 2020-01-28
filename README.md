@@ -7,6 +7,7 @@ Table of contents
   * [Browsers](#browsers)
   * [Camera](#camera)
   * [Communication](#communication)
+  * [Education](#education)
   * [Media Players](#media-players)
   * [Music](#music)
   * [Office](#office)
@@ -53,12 +54,16 @@ OpenBoard | Fork of AOSP Keyboard; minimal and simple to use. | No | <a href="ht
 QKSMS  | SMS messaging app.  | No  | <a href="https://f-droid.org/packages/com.moez.QKSMS/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=com.moez.QKSMS"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/moezbhatti/qksms"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Slide](https://www.reddit.com/r/slideforreddit/) | Unofficial Reddit client; material-dedign; ad-free and has tons of customisation. | No | <a href="https://f-droid.org/en/packages/me.ccrama.redditslide/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=me.ccrama.redditslide&hl=en"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://github.com/ccrama/Slide"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
-## Media Players
-
+## Education
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-[mpv](https://mpv.io/)  | Minimal media player  | No  | [F-Droid Repository](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv) <a href="https://play.google.com/store/apps/details?id=is.xyz.mpv"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/mpv-android/mpv-android"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
-[VLC](https://www.videolan.org/)  | Minimal media player  | No  | <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/videolan/vlc"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+[phyphox](https://phyphox.org/) | Sensors and data analyser. | No | <a href="https://f-droid.org/packages/de.rwth_aachen.phyphox/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> | <a href="https://github.com/Staacks/phyphox-android"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
+## Media Players
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+[mpv](https://mpv.io/)  | Minimal media player.  | No  | [F-Droid Repository](https://apt.izzysoft.de/fdroid/index/apk/is.xyz.mpv) <a href="https://play.google.com/store/apps/details?id=is.xyz.mpv"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/mpv-android/mpv-android"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+[VLC](https://www.videolan.org/)  | Minimal media player.  | No  | <a href="https://play.google.com/store/apps/details?id=org.videolan.vlc"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/videolan/vlc"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Music
 
