@@ -15,7 +15,7 @@ Table of contents
   * [Personalisation](#personalisation)
   * [Streaming](#streaming)
   * [Modding](#modding)
-  * [Contribution](#contribution)
+  * [Contributing](#contributing)
   * [Other Git Repositories](#other-git-repositories)
   * [External sources](#external-sources)
 
@@ -114,7 +114,7 @@ Material Files  | Material Design file manager.  | No (Optional) | <a href="http
 Shelter | Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.  | No  | <a href="https://f-droid.org/en/packages/net.typeblog.shelter/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | [GitAngry](https://git.angry.im/PeterCxy/Shelter)
 [Smartpack-Kernel Manager](https://smartpack.github.io/spkm/) | Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features. | **Yes** | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases"> <img src="https://camo.githubusercontent.com/70bffd8873ab81e1bb0bccc44e488c3a989e3bd5/68747470733a2f2f692e6962622e636f2f71306d6463345a2f6765742d69742d6f6e2d6769746875622e706e67" height="70"> | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
-## Contribution
+## Contributing
 
 Mind contributing? Feel free to fork the project and send some merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not.
 
