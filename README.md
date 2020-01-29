@@ -78,7 +78,7 @@ Retro Music  | Local music player for Android. | No  | <a href="https://play.goo
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-[Collabora Office](https://www.collabora.com/) | Office suite available for Android, GNU/Linux, iOS, macOS, Windows. | No  | <a href="https://play.google.com/store/apps/details?id=com.collabora.libreoffice"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | Not found yet.
+[Collabora Office](https://www.collabora.com/) | Office suite available for Android, GNU/Linux, iOS, macOS, Windows. | No  | <a href="https://play.google.com/store/apps/details?id=com.collabora.libreoffice"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://gerrit.libreoffice.org/plugins/gitiles/online"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-libreoffice.svg" height="70">
 [OnlyOffice](https://www.onlyoffice.com/)  | Office suite available for Android, GNU/Linux, iOS, macOS, Windows. | No  | <a href="https://play.google.com/store/apps/details?id=com.onlyoffice.documents"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">   | <a href="https://github.com/ONLYOFFICE"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Personalisation
