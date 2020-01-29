@@ -14,6 +14,7 @@ Table of contents
   * [Office](#office)
   * [Personalisation](#personalisation)
   * [Streaming](#streaming)
+  * [VPN](#vpn)
   * [Modding](#modding)
   * [Contributing](#contributing)
   * [Other Git Repositories](#other-git-repositories)
@@ -102,6 +103,13 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
 [NewPipe](https://newpipe.schabi.org/) | Lightweight Google-free YouTube client  | No  |  <a href="https://f-droid.org/packages/org.schabi.newpipe/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/TeamNewPipe/NewPipe"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [SkyTube](https://skytube-app.com/) | An open-source YouTube™ app for Android™.  | No  |  <a href="https://f-droid.org/en/packages/free.rm.skytube.oss/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/ram-on/SkyTube"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
+## VPN
+
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+[RiseupVPN](https://riseup.net/en/vpn) | Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**) | No | <a href="https://f-droid.org/en/packages/se.leap.riseupvpn/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=se.leap.riseupvpn&hl=en"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/leapcode/bitmask_android"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+[ProtonVPN](https://protonvpn.com/) | Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) | No | <a href="https://play.google.com/store/apps/details?id=ch.protonvpn.android"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/ProtonVPN/android-app"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Modding
 
