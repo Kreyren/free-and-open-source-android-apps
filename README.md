@@ -4,6 +4,7 @@ Table of contents
 =================
 
   * [Advertisement blocking](#advertisement-blocking)
+  * [App stores](#app-stores)
   * [Browsers](#browsers)
   * [Camera](#camera)
   * [Communication](#communication)
@@ -13,7 +14,6 @@ Table of contents
   * [Office](#office)
   * [Personalisation](#personalisation)
   * [Streaming](#streaming)
-  * [App stores](#app-stores)
   * [Modding](#modding)
   * [Contribution](#contribution)
   * [Other Git Repositories](#other-git-repositories)
@@ -26,6 +26,13 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 [AdAway](https://adaway.org/)   |   Ad blocker for Android using the hosts file.    |   **Yes** |  <a href="https://www.f-droid.org/en/packages/org.adaway/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://github.com/AdAway/AdAway" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Blokada](https://blokada.org/)    |   Ad blocker for Android using the VPN API.   |   No  |   <a href="https://f-droid.org/en/packages/org.blokada.alarm/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |  <a href="https://github.com/blokadaorg/blokada" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) | Ad blocker for Android using a VPN, supports hosts files. | No | <a href="https://f-droid.org/en/packages/dnsfilter.android/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> | <a href="https://github.com/IngoZenz/personaldnsfilter" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
+## App stores
+
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
+[Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 
 ## Browsers
 
@@ -95,13 +102,6 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
 [NewPipe](https://newpipe.schabi.org/) | Lightweight Google-free YouTube client  | No  |  <a href="https://f-droid.org/packages/org.schabi.newpipe/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/TeamNewPipe/NewPipe"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [SkyTube](https://skytube-app.com/) | An open-source YouTube™ app for Android™.  | No  |  <a href="https://f-droid.org/en/packages/free.rm.skytube.oss/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/ram-on/SkyTube"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
-
-## App stores
-
-Application Name    | Description   | Root      | Availability      | Source Code   |
-:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
-[Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 
 ## Modding
 
