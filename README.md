@@ -5,7 +5,7 @@ Table of contents
 
   * [Advertisement blocking](#advertisement-blocking)
   * [App stores](#app-stores)
-  * [Book readers](book-readers)
+  * [Book readers](#book-readers)
   * [Browsers](#browsers)
   * [Cameras](#cameras)
   * [Communication](#communication)
