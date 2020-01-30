@@ -32,7 +32,7 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
+[Aurora Droid](https://labs.xda-developers.com/store/app/com.aurora.adroid)   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 [Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 
 ## Browsers
