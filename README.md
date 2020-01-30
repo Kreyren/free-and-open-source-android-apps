@@ -5,8 +5,9 @@ Table of contents
 
   * [Advertisement blocking](#advertisement-blocking)
   * [App stores](#app-stores)
+  * [Book readers](book-readers)
   * [Browsers](#browsers)
-  * [Camera](#camera)
+  * [Cameras](#cameras)
   * [Communication](#communication)
   * [Education](#education)
   * [Media Players](#media-players)
@@ -35,6 +36,12 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 [Aurora Droid](https://labs.xda-developers.com/store/app/com.aurora.adroid)   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 [Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 
+## Book readers
+
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+[Tachiyomi](https://tachiyomi.org/) | Manga reader. | No | <a href="https://f-droid.org/en/packages/eu.kanade.tachiyomi/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> | <a href="https://github.com/inorichi/tachiyomi"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
+
 ## Browsers
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
@@ -44,7 +51,7 @@ Fennec F-Droid | Based on the latest Firefox release; removed any proprietary bi
 [Kiwi Browser](https://kiwibrowser.com/)   |   Based on Chrome Canary; extension support; built-in dark mode; degoogled.    |   No |   <a href="https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=en_US"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">    |   <a href="https://github.com/kiwibrowser"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Privacy Browser](https://www.stoutner.com/privacy-browser/) | Minimal browser focused for privacy. | No  | <a href="https://f-droid.org/packages/com.stoutner.privacybrowser.standard/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://git.stoutner.com/?p=PrivacyBrowser.git;a=summary"> <img src="https://www.stoutner.com/wp-content/uploads/2016/02/cropped-Privacy-Browser-3.png" alt="Stoutner" height="70">
  
-## Camera
+## Cameras
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
