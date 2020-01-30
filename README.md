@@ -4,6 +4,7 @@ Table of contents
 =================
 
   * [Advertisement blocking](#advertisement-blocking)
+  * [App stores](#app-stores)
   * [Browsers](#browsers)
   * [Camera](#camera)
   * [Communication](#communication)
@@ -13,9 +14,9 @@ Table of contents
   * [Office](#office)
   * [Personalisation](#personalisation)
   * [Streaming](#streaming)
-  * [App stores](#app-stores)
+  * [VPN](#vpn)
   * [Modding](#modding)
-  * [Contribution](#contribution)
+  * [Contributing](#contributing)
   * [Other Git Repositories](#other-git-repositories)
   * [External sources](#external-sources)
 
@@ -26,6 +27,13 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 [AdAway](https://adaway.org/)   |   Ad blocker for Android using the hosts file.    |   **Yes** |  <a href="https://www.f-droid.org/en/packages/org.adaway/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://github.com/AdAway/AdAway" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [Blokada](https://blokada.org/)    |   Ad blocker for Android using the VPN API.   |   No  |   <a href="https://f-droid.org/en/packages/org.blokada.alarm/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |  <a href="https://github.com/blokadaorg/blokada" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [DNSfilter](https://www.zenz-solutions.de/personaldnsfilter/) | Ad blocker for Android using a VPN, supports hosts files. | No | <a href="https://f-droid.org/en/packages/dnsfilter.android/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> | <a href="https://github.com/IngoZenz/personaldnsfilter" a> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
+## App stores
+
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
+[Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
 
 ## Browsers
 
@@ -78,7 +86,7 @@ Retro Music  | Local music player for Android. | No  | <a href="https://play.goo
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-[Collabora Office](https://www.collabora.com/) | Office suite available for Android, GNU/Linux, iOS, macOS, Windows. | No  | <a href="https://play.google.com/store/apps/details?id=com.collabora.libreoffice"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | Not found yet.
+[Collabora Office](https://www.collabora.com/) | Office suite available for Android, GNU/Linux, iOS, macOS, Windows. | No  | <a href="https://play.google.com/store/apps/details?id=com.collabora.libreoffice"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">  | <a href="https://gerrit.libreoffice.org/plugins/gitiles/online"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Logo-libreoffice.svg" height="70">
 [OnlyOffice](https://www.onlyoffice.com/)  | Office suite available for Android, GNU/Linux, iOS, macOS, Windows. | No  | <a href="https://play.google.com/store/apps/details?id=com.onlyoffice.documents"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play">   | <a href="https://github.com/ONLYOFFICE"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Personalisation
@@ -96,12 +104,12 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 [NewPipe](https://newpipe.schabi.org/) | Lightweight Google-free YouTube client  | No  |  <a href="https://f-droid.org/packages/org.schabi.newpipe/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/TeamNewPipe/NewPipe"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [SkyTube](https://skytube-app.com/) | An open-source YouTube™ app for Android™.  | No  |  <a href="https://f-droid.org/en/packages/free.rm.skytube.oss/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | <a href="https://github.com/ram-on/SkyTube"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
-## App stores
+## VPN
 
 Application Name    | Description   | Root      | Availability      | Source Code   |
 :-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
-Aurora Droid   |   Fork of the F-Droid client with external repos ready to sync.   |   Optional  |   <a href="https://f-droid.org/en/packages/com.aurora.adroid/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> |   <a href="https://gitlab.com/AuroraOSS/auroradroid"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
-[Aurora Store](https://auroraoss.com/) |   Unofficial FOSS client to Google Play Store. |   Optional   |   <a href="https://f-droid.org/en/packages/com.aurora.store/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">   |   <a href="https://gitlab.com/AuroraOSS/AuroraStore"> <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" height="70">
+[RiseupVPN](https://riseup.net/en/vpn) | Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**) | No | <a href="https://f-droid.org/en/packages/se.leap.riseupvpn/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=se.leap.riseupvpn&hl=en"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/leapcode/bitmask_android"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+[ProtonVPN](https://protonvpn.com/) | Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) | No | <a href="https://play.google.com/store/apps/details?id=ch.protonvpn.android"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/ProtonVPN/android-app"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
 ## Modding
 
@@ -114,7 +122,7 @@ Material Files  | Material Design file manager.  | No (Optional) | <a href="http
 Shelter | Leveraging the “Work Profile” feature of Android to provide an isolated space that you can install or clone apps into.  | No  | <a href="https://f-droid.org/en/packages/net.typeblog.shelter/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70">  | [GitAngry](https://git.angry.im/PeterCxy/Shelter)
 [Smartpack-Kernel Manager](https://smartpack.github.io/spkm/) | Fork of [Kernel Adiutor](https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor&hl=en) with a set of additional features. | **Yes** | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager/releases"> <img src="https://camo.githubusercontent.com/70bffd8873ab81e1bb0bccc44e488c3a989e3bd5/68747470733a2f2f692e6962622e636f2f71306d6463345a2f6765742d69742d6f6e2d6769746875622e706e67" height="70"> | <a href="https://github.com/SmartPack/SmartPack-Kernel-Manager"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
-## Contribution
+## Contributing
 
 Mind contributing? Feel free to fork the project and send some merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not.
 
