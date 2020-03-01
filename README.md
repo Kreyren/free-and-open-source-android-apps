@@ -15,6 +15,7 @@ Table of contents
   * [Personalisation](#personalisation)
   * [Streaming](#streaming)
   * [VPN](#vpn)
+  * [Others](#others)
   * [Modding](#modding)
   * [Contributing](#contributing)
   * [Other Git Repositories](#other-git-repositories)
@@ -119,6 +120,11 @@ Application Name    | Description   | Root      | Availability      | Source Cod
 [RiseupVPN](https://riseup.net/en/vpn) | Community-driven; based in Washington, USA (**WARNING: [Five Eyes](https://en.wikipedia.org/wiki/Five_Eyes)**) | No | <a href="https://f-droid.org/en/packages/se.leap.riseupvpn/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> <a href="https://play.google.com/store/apps/details?id=se.leap.riseupvpn&hl=en"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/leapcode/bitmask_android"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 [ProtonVPN](https://protonvpn.com/) | Operated by Swiss company Proton Technologies; [GDPR](https://en.wikipedia.org/wiki/General_Data_Protection_Regulation)!!! :) | No | <a href="https://play.google.com/store/apps/details?id=ch.protonvpn.android"> <img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="70" alt="Get it on Google Play"> | <a href="https://github.com/ProtonVPN/android-app"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
 
+## Others
+Application Name    | Description   | Root      | Availability      | Source Code   |
+:-----------------: | :-----------: | :-------: | :---------------: | :-----------: |
+[Exodus](https://exodus-privacy.eu.org/en/post/) | Tracker finder for a particular Android application. | No | <a href="https://f-droid.org/en/packages/org.eu.exodus_privacy.exodusprivacy/"> <img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="70"> | <a href="https://github.com/Exodus-Privacy/exodus-android-app"> <img src="https://cdn.afterdawn.fi/v3/news/original/github-logo.png" height="70">
+
 ## Modding
 
 #### **NOTE: This category is for those that want to modify their Android system. Be warned that some of the rooted apps may result in a bootloop.**
@@ -133,7 +139,7 @@ Shelter | Leveraging the “Work Profile” feature of Android to provide an iso
 
 ## Contributing
 
-Mind contributing? Feel free to fork the project and send some merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not.
+Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider filing an issue and suggest what application you want me to install.
 
 ## Other Git repositories
 
