@@ -99,11 +99,11 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 *~~Based on Chrome Canary; extension support; built-in dark mode; degoogled.~~*
 
-WARNING: this application is **not entirely FOSS**; please see this [issue](https://github.com/kiwibrowser/android/issues/30#issuecomment-583223430).
+**WARNING: this application is _proprietary_ and _outdated_; please see this [issue](https://github.com/kiwibrowser/android/issues/30#issuecomment-583223430).**
 
-- **Requires Root**: No
-- [**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
-- [**Source Code**](https://github.com/kiwibrowser)
+- ~~**Requires Root**: No~~
+- ~~[**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)~~
+- ~~[**Source Code**](https://github.com/kiwibrowser)~~
 
 ### [Privacy Browser](https://www.stoutner.com/privacy-browser/)
 
@@ -120,7 +120,7 @@ WARNING: this application is **not entirely FOSS**; please see this [issue](http
 *Camera app with DSLR features.*
 
 - **Requires Root**: No
-- [**F-Droid**]("https://f-droid.org/en/packages/net.sourceforge.opencamera/)
+- [**F-Droid**](https://f-droid.org/en/packages/net.sourceforge.opencamera/)
 - [**Google Play**](https://play.google.com/store/apps/details?id=net.sourceforge.opencamera)
 - [**Source Code**](https://sourceforge.net/p/opencamera/code/ci/master/tree/)
 
@@ -378,7 +378,7 @@ WARNING: this application is **not entirely FOSS**; please see this [issue](http
 *FOSS alternative to Google Play Services to run apps that are require to have Google Play Services installed. **(WARNING: microG Services trip [SafetyNet](https://developers.google.com/android/reference/com/google/android/gms/safetynet/SafetyNet) and do your research before proceeding!)** Read the [unofficial microG wiki](https://old.reddit.com/r/MicroG/wiki/index) to know how to install.*
 
 - **Requires Root**: No **(NOTE: Custom ROM with [Signature Spoofing](https://github.com/microg/android_packages_apps_GmsCore/wiki/Signature-Spoofing) support required!)**
-- [**MicroG or F-Droid repository**](https://microg.org/download.html)
+- [**F-Droid repository**](https://microg.org/download.html)
 - [**Source Code**](https://github.com/microg)
 
 ### Shelter
