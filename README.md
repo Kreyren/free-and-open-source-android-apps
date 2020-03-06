@@ -244,6 +244,14 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 - [**Source Code**](https://github.com/h4h13/RetroMusicPlayer)
 
+### Shuttle Music Player
+
+*Local music player for Android.*
+
+- **Requires Root**: No
+- [Google Play](https://play.google.com/store/apps/details?id=another.music.player)
+- [**Source Code**](https://github.com/timusus/Shuttle)
+
 ### [VLC](https://www.videolan.org/)
 
 *Minimal media player.*
