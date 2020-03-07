@@ -95,6 +95,23 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)
 - [**Source Code**](https://hg.mozilla.org/releases/mozilla-esr68/)
 
+### [Firefox Focus](https://support.mozilla.org/en-US/kb/focus)
+
+*Privacy-oriented browser with tracking protection and content blocking.*
+
+- **Requires Root**: No
+- [**Google Play**](https://play.google.com/store/apps/details?id=org.mozilla.focus)
+- [**Source Code**](https://github.com/mozilla-mobile/focus-android)
+
+### [Firefox Klar](https://support.mozilla.org/en-US/kb/what-firefox-klar-android)
+
+*Privacy-oriented browser with tracking protection and content blocking; for the German market.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/org.mozilla.klar/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=org.mozilla.klar&hl=en_US)
+- [**Source Code**](https://github.com/mozilla-mobile/focus-android)
+
 ### [~~Kiwi Browser~~](https://kiwibrowser.com/)
 
 *~~Based on Chrome Canary; extension support; built-in dark mode; degoogled.~~*
