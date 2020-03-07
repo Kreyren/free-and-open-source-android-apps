@@ -82,7 +82,7 @@ Table of contents
 *Based on Chromium; built-in adblocking; enhanced privacy; degoogled.*
 
 - **Requires Root**: No
-- [**F-Droid**](https://fdroid.bromite.org/fdroid/repo)
+- [**External F-Droid Repository**](https://fdroid.bromite.org/fdroid/repo)
 - [**Source Code**](https://github.com/bromite/bromite)
 
 ### Fennec F-Droid
@@ -148,7 +148,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.*
 
 - **Requires Root**: No
-- [**F-Droid**](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit)
+- [**External F-Droid Repository**](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit)
 - [**Google Play**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
 - [**Source Code**](https://github.com/Docile-Alligator/Infinity-For-Reddit)
 
