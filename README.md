@@ -195,6 +195,15 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.moez.QKSMS)
 - [**Source Code**](https://github.com/moezbhatti/qksms)
 
+### RedReader for Reddit
+
+*Unofficial Reddit client; material-dedign; ad-free and has tons of customisation.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/org.quantumbadger.redreader/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=org.quantumbadger.redreader)
+- [**Source Code**](https://github.com/QuantumBadger/RedReader)
+
 ### [Slide](https://www.reddit.com/r/slideforreddit/)
 
 *Unofficial Reddit client; material-dedign; ad-free and has tons of customisation.*
@@ -266,8 +275,15 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 *Local music player for Android.*
 
 - **Requires Root**: No
-- [Google Play](https://play.google.com/store/apps/details?id=another.music.player)
+- [**Google Play**](https://play.google.com/store/apps/details?id=another.music.player)
 - [**Source Code**](https://github.com/timusus/Shuttle)
+
+### Vinyl Music Player
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/en/packages/com.poupa.vinylmusicplayer/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=com.poupa.vinylmusicplayer&hl=en_US)
+- [**Source Code**](https://github.com/AdrienPoupa/VinylMusicPlayer)
 
 ### [VLC](https://www.videolan.org/)
 
