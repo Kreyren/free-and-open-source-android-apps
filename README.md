@@ -116,7 +116,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 *~~Based on Chrome Canary; extension support; built-in dark mode; degoogled.~~*
 
-**WARNING: this application is _proprietary_ and _outdated_; please see this [issue](https://github.com/kiwibrowser/android/issues/30#issuecomment-583223430).**
+**EDIT: this application is _proprietary_ and _outdated_; please see this [issue](https://github.com/kiwibrowser/android/issues/30#issuecomment-583223430).**
 
 - ~~**Requires Root**: No~~
 - ~~[**F-Droid**](https://f-droid.org/en/packages/org.mozilla.fennec_fdroid/)~~
@@ -303,13 +303,15 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.collabora.libreoffice)
 - [**Source Code**](https://gerrit.libreoffice.org/plugins/gitiles/online)
 
-### [OnlyOffice](https://www.onlyoffice.com/)
+### ~~[OnlyOffice](https://www.onlyoffice.com/)~~
 
-*Office suite available for Android, GNU/Linux, iOS, macOS, Windows.*
+~~*Office suite available for Android, GNU/Linux, iOS, macOS, Windows.*~~
 
-- **Requires Root**: No
-- [**Google Play**](https://play.google.com/store/apps/details?id=com.onlyoffice.documents)
-- [**Source Code**](https://github.com/ONLYOFFICE)
+**EDIT: This app is _proprietary_.**
+
+- ~~**Requires Root**: No~~
+- ~~[**Google Play**](https://play.google.com/store/apps/details?id=com.onlyoffice.documents)~~
+- ~~[**Source Code**](https://github.com/ONLYOFFICE)~~
 
 ## Personalisation
 
