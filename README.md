@@ -440,7 +440,7 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ## Contributing
 
-Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider filing an issue and suggest what application you want me to install.
+Want to contribute? Feel free to fork the project and send merge requests when you are done. Be sure it is in alphabetical order. I will check it out and will decide if I should accept it or not. If you do not want to fork the project, consider [opening an issue](https://github.com/TheEvilSkeleton/free-and-open-source-android-apps/issues) and suggest what application you want me to install.
 
 ## Other Git repositories
 
