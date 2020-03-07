@@ -143,6 +143,15 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ## Communication
 
+### Infinity for Reddit
+
+*This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://apt.izzysoft.de/fdroid/index/apk/ml.docilealligator.infinityforreddit)
+- [**Google Play**](https://play.google.com/store/apps/details?id=ml.docilealligator.infinityforreddit)
+- [**Source Code**](https://github.com/Docile-Alligator/Infinity-For-Reddit)
+
 ### [AnySoftKeyboard](https://anysoftkeyboard.github.io/)
 
 *Keyboard with tons of features.*
