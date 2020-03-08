@@ -143,6 +143,24 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 
 ## Communication
 
+### Conversations
+
+*XMPP/Jabber client.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/packages/eu.siacs.conversations/)
+- [**Google Play**](https://play.google.com/store/apps/details?id=eu.siacs.conversations&referrer=utm_source%3Dgithub)
+- [**Source Code**](https://github.com/siacs/Conversations)
+
+### [Delta Chat](https://delta.chat/en/)
+
+*Email-based instant messaging for Android.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/app/com.b44t.messenger)
+- [**Google Play**](https://play.google.com/store/apps/details?id=chat.delta)
+- [**Source Code**](https://github.com/deltachat/deltachat-android)
+
 ### Infinity for Reddit
 
 *This is a Reddit client on Android written in Java. It does not have any ads and it features clean UI and smooth browsing experience.*
@@ -203,6 +221,15 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - [**F-Droid**](https://f-droid.org/packages/com.moez.QKSMS/)
 - [**Google Play**](https://play.google.com/store/apps/details?id=com.moez.QKSMS)
 - [**Source Code**](https://github.com/moezbhatti/qksms)
+
+### [Yaxim](https://yaxim.org/)
+
+*Yet another XMPP instant messenger.*
+
+- **Requires Root**: No
+- [**F-Droid**](https://f-droid.org/repository/browse/?fdid=org.yaxim.androidclient)
+- [**Google Play**](https://play.google.com/store/apps/details?id=org.yaxim.androidclient)
+- [**Source Code**](https://github.com/yaxim-org/yaxim)
 
 ### RedReader for Reddit
 
