@@ -13,6 +13,7 @@ Table of contents
   * [Music](#music)
   * [Office](#office)
   * [Personalisation](#personalisation)
+  * [Photos](#photos)
   * [Streaming](#streaming)
   * [VPN](#vpn)
   * [Others](#others)
@@ -375,6 +376,16 @@ NOTE: There might still be some binaries left and the app (or some builds) might
 - **Requires Root**: No
 - [**F-Droid**](https://f-droid.org/en/packages/com.benny.openlauncher/)
 - [**Source Code**](https://github.com/OpenLauncherTeam/openlauncher)
+
+## Photos
+
+### [Phimp.me](https://phimp.me/)
+
+*Photo Imaging and Picture Editor*
+
+- **Requires Root**: No
+- [**Google Play**](https://play.google.com/store/apps/details?id=org.fossasia.phimpme)
+- [**Source Code**](https://github.com/fossasia/phimpme-android)
 
 ## Streaming
 
